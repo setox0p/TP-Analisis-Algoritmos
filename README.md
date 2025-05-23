@@ -6,26 +6,26 @@ Se analiza el rendimiento de distintos algoritmos mediante la teoría y la prác
 
 # Contenidos
 - ¿Qué es un algoritmo?
-- Complejidad algorítmica (notación O, Ω, Θ)
+- Complejidad algorítmica (notación O)
 - Comparación de algoritmos:
-  - Búsqueda lineal y binaria
-  - Ordenamiento: burbuja, inserción, selección, mergesort y quicksort
+  - Busqueda lineal y binaria
+  - Ordenamiento: Cuadrática
 - Medición de tiempos de ejecución
 - Pruebas para validar que los algoritmos funcionen bien
 
 
 # Estructura del proyecto
 
-- `src/`: código de los algoritmos y medición de tiempos
-- `tests/`: pruebas automáticas
-- `docs/`: teoría, conclusiones y referencias
-- `video_tutorial.mp4`: explicación del trabajo
+- `src/` código de los algoritmos y medición de tiempos
+- `test/` pruebas automáticas
+- conclusiones y referencias
+- `video.mp4` explicación del trabajo
 
 ---
 
 ## Cómo usar el proyecto
 
 1. Cloná este repositorio:
-   ```bash
+   ````bash
    git clone https://github.com/tu_usuario/TP-Analisis-Algoritmos.git
    cd TP-Analisis-Algoritmos
