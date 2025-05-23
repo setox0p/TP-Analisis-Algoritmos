@@ -1,4 +1,4 @@
-def busqueda_lineal(lista, objetivo):   # recorre la lista de izq a der. buscando (objetivo), si lo encuentra muestra el indice de lo contrario -1
+def busqueda_lineal(lista, objetivo):
     for i, elemento in enumerate(lista):
         if elemento == objetivo:
             return i
