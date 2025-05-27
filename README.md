@@ -17,7 +17,6 @@ Se analiza el rendimiento de distintos algoritmos mediante la teoría y la prác
 # Estructura del proyecto
 
 - `src/` código de los algoritmos y medición de tiempos
-- `test/` pruebas automáticas
 - conclusiones y referencias
 - `video.mp4` explicación del trabajo
 
