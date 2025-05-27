@@ -31,7 +31,7 @@ def busqueda_cuadratica(lista):
     return lista
 
 
-# Ejemplo básico
+# Ejemplo
 
 lista = [10, 3, 5, 20, 7]   # ejemplo de lista
 objetivo = 20
