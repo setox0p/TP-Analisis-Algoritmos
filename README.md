@@ -1,8 +1,7 @@
 Trabajo Integrador - Programación 1
 
 Tema: Análisis de Algoritmos
-Este proyecto forma parte del trabajo integrador de Programación 1
-Se analiza el rendimiento de distintos algoritmos mediante la teoría y la práctica
+En este proyecto se implementan y analizan tres algoritmos (búsqueda lineal, búsqueda binaria y búsqueda cuadrática). El objetivo en este trabajo es comparar el rendimiento midiendo los tiempos de ejecución con listas que varian de tamaño.
 
 # Contenidos
 - ¿Qué es un algoritmo?
@@ -20,11 +19,6 @@ Se analiza el rendimiento de distintos algoritmos mediante la teoría y la prác
 - conclusiones y referencias
 - `video.mp4` explicación del trabajo
 
----
+Reflexión:
+Gracias al desarrollo e investigación de este trabajo, pude comprender y aplicar conceptos básicos de algoritmos y algunas estructuras, también logré entender como la eficiencia de un algoritmo puede variar con la cantidad de datos, además de incluir la medición de tiempos y a almacenarlos en un archivo externo para verlos de una manera mas cómoda.
 
-## Cómo usar el proyecto
-
-1. Cloná este repositorio:
-   ````bash
-   git clone https://github.com/tu_usuario/TP-Analisis-Algoritmos.git
-   cd TP-Analisis-Algoritmos
